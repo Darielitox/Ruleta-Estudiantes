@@ -1,0 +1,52 @@
+==================================================
+             Historial de selecciones             
+==================================================
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Alan
+├─ Facilitador de Ejercicio: Elvis
+└─ Visitante: Elizabeth
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Dariel
+├─ Facilitador de Ejercicio: Marcos
+└─ Visitante: Alan
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Mario
+├─ Facilitador de Ejercicio: Dariel
+└─ Visitante: Marcos
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Elizabeth
+├─ Facilitador de Ejercicio: Mario
+└─ Visitante: Dariel
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Willy
+├─ Facilitador de Ejercicio: Alan
+└─ Visitante: Elvis
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Elvis
+├─ Facilitador de Ejercicio: Willy
+└─ Visitante: Mario
+
+🗓️ 20/03/2026 20:14
+├─ Desarrollador en Vivo: Marcos
+├─ Facilitador de Ejercicio: Elizabeth
+└─ Visitante: Willy
+
+==================================================
+🚀 NUEVA EJECUCIÓN - 20/03/2026 20:14
+==================================================
+
+🗓️ 21/03/2026 00:29
+├─ Desarrollador en Vivo: Alan
+├─ Facilitador de Ejercicio: Elvis
+└─ Visitante: Willy
+
+🗓️ 21/03/2026 00:29
+├─ Desarrollador en Vivo: Elizabeth
+├─ Facilitador de Ejercicio: Dariel
+└─ Visitante: Alan

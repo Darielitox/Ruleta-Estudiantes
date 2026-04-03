@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Ruleta_Estudiantes\bin\Debug\net10.0\Ruleta_Estudiantes.exe
+C:\Users\User\Desktop\Ruleta_Estudiantes\bin\Debug\net10.0\Ruleta_Estudiantes.deps.json
+C:\Users\User\Desktop\Ruleta_Estudiantes\bin\Debug\net10.0\Ruleta_Estudiantes.runtimeconfig.json
+C:\Users\User\Desktop\Ruleta_Estudiantes\bin\Debug\net10.0\Ruleta_Estudiantes.dll
+C:\Users\User\Desktop\Ruleta_Estudiantes\bin\Debug\net10.0\Ruleta_Estudiantes.pdb
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.AssemblyInfo.cs
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.dll
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\refint\Ruleta_Estudiantes.dll
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.pdb
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\Ruleta_Estudiantes.genruntimeconfig.cache
+C:\Users\User\Desktop\Ruleta_Estudiantes\obj\Debug\net10.0\ref\Ruleta_Estudiantes.dll
