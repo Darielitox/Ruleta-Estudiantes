@@ -52,7 +52,7 @@ Ruleta_Estudiantes/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Darkar-Dwsj/ruleta-estudiantes.git
+git clone https://github.com/Darielitox/ruleta-estudiantes.git
 cd ruleta-estudiantes
 
 # Compilar y ejecutar
